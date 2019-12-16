@@ -48,7 +48,7 @@ Make sure you provide the correct path of **requirements.txt**
 ```
 AIC\Scripts\jupyter-notebook.exe
 ```
-then navigate to and open **Arabic Image Captioning.ipynb**
+then navigate to and open [Arabic Image Captioning.ipynb](./Arabic%20Image%20Captioning.ipynb)
 
 
 ## Citation
