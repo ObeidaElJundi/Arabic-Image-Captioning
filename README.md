@@ -1,13 +1,17 @@
 # Arabic-Image-Captioning
 Generate Arabic captions for images using Deep Learning
 
+Paper: to be added soon.
+
+Dataset: [./data/Flickr8k_text/Flickr8k.arabic.full.txt](./data/Flickr8k_text/Flickr8k.arabic.full.txt)
+
 ## Introduction
-Image Captioning refers to the art of describing the content of an image by computers. It is a well-known problem in CV and NLP. It has many applications, such as improved information retrieval, early childhood education, for visually impaired persons, for social media, and so on. Although remarkable work has been accomplished recently for English, and due to the lack of large and publicly available dataset, the progress on Arabic Image Captioning is still lagging. Therefore, we developed our own dataset based on Flickr8K. It can be found under **data/Flickr8k_text/** folder, named **Flickr8k.arabic.txt**. It has the exact same format as the original Flickr8K.
+Image Captioning refers to the art of describing the content of an image by computers. It is a well-known problem in CV and NLP. It has many applications, such as improved information retrieval, early childhood education, for visually impaired persons, for social media, and so on. Although remarkable work has been accomplished recently for English, and due to the lack of large and publicly available dataset, the progress on Arabic Image Captioning is still lagging. Therefore, we developed our own dataset based on Flickr8K. It can be found under **data/Flickr8k_text/** folder, named **Flickr8k.arabic.full.txt**. It has the exact same format as the original Flickr8K.
 
 ## Model
 Inspired by recent advances in neural machine translation, the sequence-to-sequence encoder-decoder approach was adopted here.
 ![seq2seq-image-captioning-arabic](https://user-images.githubusercontent.com/9033365/50055387-e3ab9980-0156-11e9-859f-dce71314777a.png)
-For mode details, please check the paper: **Computer_Vision_Project__IEEE_final.pdf**.
+For mode details, please check the paper.
 
 ## Results
 Good example:
@@ -45,3 +49,10 @@ Make sure you provide the correct path of **requirements.txt**
 AIC\Scripts\jupyter-notebook.exe
 ```
 then navigate to and open **Arabic Image Captioning.ipynb**
+
+
+## Citation
+To be added soon.
+
+## Contact information
+For help, issues, or personal communication related to using hULMonA, please contact Obeida ElJundi: [oae15@mail.aub.edu](mailto:oae15@mail.aub.edu)
