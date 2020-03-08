@@ -23,6 +23,7 @@ Bad example:
 ![bad_examples](https://user-images.githubusercontent.com/9033365/50055408-2a998f00-0157-11e9-9d63-2b40e46a78f7.png)
 
 Results show that developing language specific datasets and end-to-end models outperforms translating English generated captions to a destination language as the later may accumulate both models errors: image captioning and translation.
+
 ![6](https://user-images.githubusercontent.com/9033365/76162680-71f3ad00-6159-11ea-9b19-e8957435336b.PNG)
 
 ## Installation
