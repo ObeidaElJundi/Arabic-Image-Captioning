@@ -5,6 +5,8 @@ Paper: to be added soon.
 
 Dataset: [./data/Flickr8k_text/Flickr8k.arabic.full.txt](./data/Flickr8k_text/Flickr8k.arabic.full.txt)
 
+Presentation: [here](https://drive.google.com/file/d/1vt1LcE_0xEFHpQ95bLWLNWqrwZ9AbTS8/view?usp=sharing)
+
 ## Introduction
 Image Captioning refers to the art of describing the content of an image by computers. It is a well-known problem in CV and NLP. It has many applications, such as improved information retrieval, early childhood education, for visually impaired persons, for social media, and so on. Although remarkable work has been accomplished recently for English, and due to the lack of large and publicly available dataset, the progress on Arabic Image Captioning is still lagging. Therefore, we developed our own dataset based on Flickr8K. It can be found under **data/Flickr8k_text/** folder, named **Flickr8k.arabic.full.txt**. It has the exact same format as the original Flickr8K.
 
@@ -19,6 +21,9 @@ Good example:
 <br /> <br />
 Bad example:
 ![bad_examples](https://user-images.githubusercontent.com/9033365/50055408-2a998f00-0157-11e9-9d63-2b40e46a78f7.png)
+
+Results show that developing language specific datasets and end-to-end models outperforms translating English generated captions to a destination language as the later may accumulate both models errors: image captioning and translation.
+![6](https://user-images.githubusercontent.com/9033365/76162680-71f3ad00-6159-11ea-9b19-e8957435336b.PNG)
 
 ## Installation
 1. Clone or download this repository.
@@ -55,4 +60,4 @@ then navigate to and open [Arabic Image Captioning.ipynb](./Arabic%20Image%20Cap
 To be added soon.
 
 ## Contact information
-For help, issues, or personal communication related to using hULMonA, please contact Obeida ElJundi: [oae15@mail.aub.edu](mailto:oae15@mail.aub.edu)
+For help, issues, or personal communication related to this work, please contact Obeida ElJundi: [oae15@mail.aub.edu](mailto:oae15@mail.aub.edu)
