@@ -1,7 +1,7 @@
 # Arabic-Image-Captioning
 Generate Arabic captions for images using Deep Learning
 
-Paper: to be added soon.
+Paper: [here](https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=88812)
 
 Dataset: [./data/Flickr8k_text/Flickr8k.arabic.full.txt](./data/Flickr8k_text/Flickr8k.arabic.full.txt)
 
@@ -58,7 +58,21 @@ then navigate to and open [Arabic Image Captioning.ipynb](./Arabic%20Image%20Cap
 
 
 ## Citation
-To be added soon.
+Please cite [this paper](https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=88812):
+
+```
+@conference{visapp20,
+author={Obeida ElJundi. and Mohamad Dhaybi. and Kotaiba Mokadam. and Hazem Hajj. and Daniel Asmar.},
+title={Resources and End-to-End Neural Network Models for Arabic Image Captioning},
+booktitle={Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP,},
+year={2020},
+pages={233-241},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0008881202330241},
+isbn={978-989-758-402-2},
+}
+```
 
 ## Contact information
 For help, issues, or personal communication related to this work, please contact Obeida ElJundi: [oae15@mail.aub.edu](mailto:oae15@mail.aub.edu)
