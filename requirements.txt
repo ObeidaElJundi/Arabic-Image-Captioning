@@ -68,7 +68,7 @@ matplotlib==3.0.2
 mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
-nltk==3.4
+nltk==3.4.5
 notebook==5.7.2
 numpy==1.15.4
 openpyxl==2.5.11
